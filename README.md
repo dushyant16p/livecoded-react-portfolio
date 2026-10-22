@@ -6,6 +6,9 @@ This is the **final project for Livecoded's free 2-day live React beginner works
 
 > **Tagline:** Learn by Building — Livecoded
 
+**Live demo:** https://dushyant16p.github.io/livecoded-react-portfolio/
+_(Deployed automatically on every push to `main` using GitHub Actions — see `.github/workflows/deploy.yml`. If you fork this repo, update the `base` value in `vite.config.js` to your repo name.)_
+
 ## Features
 
 - Sticky responsive Navbar with mobile hamburger menu
